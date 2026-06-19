@@ -35,7 +35,7 @@ const socialLinks = [
     displayName: "Youtube",
     subText: "@eki zulfar",
     icon: Youtube,
-    url: "https://www.youtube.com/@eki_zulfar",
+    url: "http://www.youtube.com/@ekowahyudis.8260",
     color: "#FF0000",
     gradient: "from-[#FF0000] to-[#CC0000]",
   },
@@ -44,14 +44,14 @@ const socialLinks = [
     displayName: "Github",
     subText: "@EkiZR",
     icon: Github,
-    url: "https://github.com/EkiZR",
+    url: "https://github.com/ewasapu",
     color: "#ffffff",
     gradient: "from-[#333] to-[#24292e]",
   },
   {
     name: "TikTok",
     displayName: "Tiktok",
-    subText: "@eki_zulfar",
+    subText: "@leewa04",
     icon: ({ className, ...props }) => (
       <svg
         width="24px"
