@@ -79,7 +79,7 @@ const PAUSE_DURATION = 2000;
 const WORDS = ["Network & Telecom Student", "Tech Enthusiast"];
 const TECH_STACK = ["React", "Javascript", "Node.js", "Tailwind"];
 const SOCIAL_LINKS = [
-  { icon: Github, link: "https://github.com/nagghzenof", label: "GitHub Profile" },
+  { icon: Github, link: "https://github.com/ewasapu", label: "GitHub Profile" },
   { icon: Linkedin, link: "https://www.linkedin.com/in/eko-wahyudi-saputro-s-kom/", label: "LinkedIn Profile" },
   { icon: Instagram, link: "https://www.instagram.com/wahyuputra3214/?hl=id", label: "Instagram Profile" }
 ];
